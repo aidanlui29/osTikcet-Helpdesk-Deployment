@@ -33,3 +33,11 @@ The osTicket Helpdesk Deployment project was created to build a cloud-based tick
 10. Secured the installation by locking down the configuration file and removing the setup directory.  
 11. Enabled HTTPS using Certbot and configured UFW firewall rules for additional security.  
 12. Cleaned up unused Azure resources to prevent unnecessary costs. :contentReference[oaicite:1]{index=1}
+
+## Screenshots
+
+### osTicket End-User Portal
+![osTicket End-User Portal](./screenshots/osTicket-end-user-portal.png)
+
+### osTicket Admin Login
+![osTicket Admin Login](./screenshots/osTicket-admin-login.png)
