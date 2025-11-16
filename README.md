@@ -37,7 +37,7 @@ The osTicket Helpdesk Deployment project was created to build a cloud-based tick
 ## Screenshots
 
 ### osTicket End-User Portal
-![osTicket End-User Portal](./screenshots/osTicket-end-user-portal.png)
+![osTicket End-User Portal](.osTicket-user-portal.png)
 
 ### osTicket Admin Login
-![osTicket Admin Login](./screenshots/osTicket-admin-login.png)
+![osTicket Admin Login](.osTicket-admin-login.png)
